@@ -12,4 +12,5 @@
 * [THE DATA ANALYTICS HANDBOOK - RESEARCHERS AND ACADEMICS] (https://s3.amazonaws.com/leada/handbook/Handbook_Pt3.pdf)
 * [THE DATA ANALYTICS HANDBOOK - DATA ANALYSTS AND DATA SCIENTISTS] (https://s3.amazonaws.com/leada/handbook/Handbook_Pt1.pdf)
 * [THE DATA ANALYTICS HANDBOOK - CEO’S AND MANAGERS] (https://s3.amazonaws.com/leada/handbook/Handbook_Pt2.pdf)
+* [THE DATA ANALYTICS HANDBOOK - BIG DATA EDITION] (https://www.teamleada.com/handbook)
 * [List of Machine Learning Books] (https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
